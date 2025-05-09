@@ -10,7 +10,7 @@ I'm **Kevin Ha**, a Computer Science student at **San José State University (SJ
 🧰 I work comfortably across a modern tech stack, including:
 - Frontend: `React`, `Tailwind CSS`, `Framer Motion`
 - Backend: `Flask`, `Next.js`, `Python`, `Java`, `SQL`
-- DevOps & Tools: `Git`, `Vercel`, `AWS EC2`, `BeautifulSoup`
+- DevOps & Tools: `Git`, `Vercel`, `AWS EC2`, `BeautifulSoup`, `Google Cloud`
 
 📫 Reach out to connect or collaborate:
 - Portfolio: [kevinkha.com](https://kevinkha.com)
